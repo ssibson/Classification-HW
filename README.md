@@ -9,7 +9,7 @@
 ## Credit Risk Ensemble
 1) In my results, the easy ensemble had the best recall score at .94 
 2) Again, the easy ensemble considerably outperformed the balanced random forrest method in geometric mean, also.
-3)The top three features are:
+3) The top three features are:
 -Loan Amount
 -Interest Rate
 -Installment
